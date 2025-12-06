@@ -522,7 +522,7 @@ elif page == "🤖 Prediction":
             st.error(f"⚠️ Error during prediction: {e}")
 
     st.markdown("<br>", unsafe_allow_html=True)
-    st.info("Model: XGBoost Pipeline | Developed by Ahmed Shlaby", icon="🤖")
+    st.info("Model: XGBoost Pipeline | Developed by Aravind Reddy", icon="🤖")
     
 
 
@@ -676,6 +676,7 @@ elif page == "🎯 Presentation":
                     © 2025 | Developed by <strong>Ahmed Shlaby</strong> | 📧 <a href="mailto:shalabyahmed299@gmail.com">Contact</a>
                 </p>
                 """, unsafe_allow_html=True)
+
 
 
 
